@@ -1,13 +1,14 @@
 # dog-park-repellant
 
 ## Description
-Project dog-park-repellant
+A lightweight `no_std` crate containing the "phrase which repels people from the Dog PaRK".
 
 ## Goals
-- [ ] Add project goals
+- [ ] Store the repellent phrase efficiently
+- [ ] Maintain `no_std` compatibility
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
